@@ -33,6 +33,7 @@ h1 {
   border-radius: 10px;
   background-color: #ffffffd7;
   border: none;
+  font-size: 16px;
 }
 .filter:focus {
   outline: none;
